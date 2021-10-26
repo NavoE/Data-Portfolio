@@ -16,4 +16,16 @@ Here are some pieces of my work!
 
 **Assignments**
 
+*Week 1*
+
+*Week 2*
+
+*Week 3*
+
+*Week 4*
+
+*Week 5*
+
+*Week 6*
+
 **Final Project**
