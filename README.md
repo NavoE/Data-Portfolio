@@ -13,3 +13,7 @@ Cutting edge Data-Viz strategies.
 
 # Portfolio
 Here are some pieces of my work!
+
+**Assignments**
+
+**Final Project**
