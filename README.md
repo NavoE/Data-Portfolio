@@ -19,6 +19,7 @@ Here are some pieces of my work!
 *Week 1*
 
 *Week 2*
+
 Visualizing Government Debt (/govtdebt.md)
 
 *Week 3*
