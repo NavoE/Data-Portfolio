@@ -6,7 +6,7 @@ I am a mission-driven creative and social advocate who uses my analytical skills
 
 I’ve also been featured sharing my journey in an Emmy Winning Spectrum News Documentary. Let’s collaborate!
 
-(See Personal Site for access to Portfolio, Resume, and CV: https://navoemmanuel.wixsite.com/mysite)
+[See Personal Site for access to Portfolio, Resume, and CV:] (https://navoemmanuel.wixsite.com/mysite)
 
 # What I Hope to Learn
 Cutting edge Data-Viz strategies.
@@ -20,7 +20,7 @@ Here are some pieces of my work!
 
 *Week 2*
 
-Visualizing Government Debt(/govtdebt.md)
+[Visualizing Government Debt](/govtdebt.md)
 
 *Week 3*
 
