@@ -22,7 +22,7 @@ Here are some pieces of my work!
 
 Our assignment for this week was to create a data visualization of global debt using OECD data. The data was collected from the OECD's official data site and the visualization was created using [Flourish](https://app.flourish.studio/@navoemmanuel).
 
-[Learn more about my Visualizing Government Debt](/govtdebt.md) charts.
+[Learn more about my Visualizing Government Debt charts.](/govtdebt.md)
 
 ***Original Data Source***
 <iframe src="https://data.oecd.org/chart/6vdc" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vdc" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
