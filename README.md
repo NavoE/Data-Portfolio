@@ -24,13 +24,13 @@ Our assignment for this week was to create a data visualization of global debt u
 
 [Learn more about my Visualizing Government Debt](/govtdebt.md) charts.
 
-**Original Data Source**
+***Original Data Source***
 <iframe src="https://data.oecd.org/chart/6vdc" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vdc" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
 
-**Grid of Line Charts**
+***Grid of Line Charts***
 <div class="flourish-embed flourish-chart" data-src="visualisation/7700781"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-**Grid of Stacked Area Charts**
+***Grid of Stacked Area Charts***
 <div class="flourish-embed flourish-chart" data-src="visualisation/7701130"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 *Week 3*
