@@ -27,6 +27,7 @@ Follow the link below to see another rendition of my chart.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7700781"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 *Week 3*
 
 *Week 4*
