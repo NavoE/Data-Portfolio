@@ -30,8 +30,10 @@ Original Data Source
 
 Additional Flourish Visualizations
 
+**Grid of Line Charts**
 <div class="flourish-embed flourish-chart" data-src="visualisation/7700781"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+**Grid of Stacked Area Charts**
 <div class="flourish-embed flourish-chart" data-src="visualisation/7701130"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 *Week 3*
