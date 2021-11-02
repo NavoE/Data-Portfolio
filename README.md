@@ -18,7 +18,7 @@ Here are some pieces of my work!
 
 *Week 1*
 
-*Week 2*
+*Week 2 - Visualizing Debt*
 
 Our assignment for this week was to create a data visualization of global debt using OECD data. The data was collected from the OECD's official data site and the visualization was created using [Flourish](https://public.flourish.studio/visualisation/7700781/)
 
