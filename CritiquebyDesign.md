@@ -6,4 +6,4 @@ I chose the [Second Cities: Keeping Pace with a Booming New York](https://www.ce
 
 I chose to approache my redesign by focusing primarily on simplifying the visual. 
 
-/unamed
+![Wireframes](/Data-Portfolio/unamed.jpg)
