@@ -5,3 +5,5 @@ I chose the [Second Cities: Keeping Pace with a Booming New York](https://www.ce
 *Wireframing a solution*
 
 I chose to approache my redesign by focusing primarily on simplifying the visual. 
+
+/unamed
