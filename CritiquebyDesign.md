@@ -6,7 +6,7 @@ I chose the [Second Cities: Keeping Pace with a Booming New York](https://www.ce
 
 I approached my redesign by focusing primarily on simplifying the visual. I realized that there were a lot of excessive and confusing elements that could be removed, and the use of color needed to be more intentional. I also saw an opportunity to use callout text boxes to better highlight the original designer's intent. After I created my wireframes, I conducted two interviews for feedback on my design. The questions and responses from the interviews have been outlined below. The main takeaway for me was that I needed to make my context clearer so the viewer could focus more on the other cities and less on New York like I originally intended. Another takeaway was that rather than focusing on the change in population across the cities competing for second place, there was a primary focus on the overall trends of all the cities.
 
-![Wireframes](Data-Portfolio/unnamed.jpg)
+![Wireframes](unnamed.jpg)
 
 Interview 1
 
