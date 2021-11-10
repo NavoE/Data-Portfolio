@@ -38,6 +38,7 @@ Our assignment for this week was to create a data visualization of global debt u
 The assignment for this week was to redesign a visualization of my choosing using any of the tools that we have learned to use. I chose to use Tableau and published my visualization to [my public tableau page](https://public.tableau.com/app/profile/navo.emmanuel).
 
 [Learn more about my Critique by Design Assignment.](/CritiquebyDesign.md)
+
 *Week 4*
 
 *Week 5*
