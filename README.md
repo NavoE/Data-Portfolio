@@ -40,6 +40,9 @@ The assignment for this week was to redesign a visualization of my choosing usin
 [Learn more about my Critique by Design Assignment.](/CritiquebyDesign.md)
 
 *Week 4*
+For this week, we began developing templates for our final projects. I have chosen to center my story on the poverty pipeline that many groups in the United States presently find themselves trapped in. 
+
+[Learn more about my Final Project Outline.](/final_project_NavoEmmanuel.md)
 
 *Week 5*
 
