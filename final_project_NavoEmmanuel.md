@@ -14,10 +14,10 @@ I will leverage census data to creagte a hollistic story arc of the two demograp
 I will provide resources to advocacy organizations that are actively disrupting the Pipeline to Poverty cycle. 
 
 # Initial Sketches
-![Sketches](IMG_7279.jpg)
-![Sketches](IMG_7280.jpg)
-![Sketches](IMG_7281.jpg)
-![Sketches](IMG_7282.jpg)
+![Sketches](IMG_7279.jpeg)
+![Sketches](IMG_7280.jpeg)
+![Sketches](IMG_7281.jpeg)
+![Sketches](IMG_7282.jpeg)
 
 # Data Plan
 I plan to collect my data from the [Census Bureau's database](https://data.census.gov/cedsci/). This data will represent the average outcome of each demographic group of interest across various demographic features that reflect socioeconomic outcomes.
