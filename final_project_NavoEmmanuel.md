@@ -15,7 +15,7 @@ This section will include research on historical disparaty trends and how
 
 
 # Data Plan
-I plan to collect my data from the (Census Bureau's database)[https://data.census.gov/cedsci/]. This data will represent the average outcome of each demographic group of interest. 
+I plan to collect my data from the [Census Bureau's database](https://data.census.gov/cedsci/). This data will represent the average outcome of each demographic group of interest. 
 
 # Shorthand
 
