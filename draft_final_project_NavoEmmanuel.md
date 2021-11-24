@@ -5,22 +5,25 @@ Evaluate the efficacy of my call-to-action
 Determine how my story can be improved upon
 
 **Script**
-“My goal today is to get feedback on a new page we're designing. I’m talking to people to see what makes sense and what’s confusing. All feedback is anonymous, and the test should take less than 10 minutes of your time.”
+“My goal today is to get feedback on a new page I'm designing. I’m talking to people to see what makes sense and what’s confusing. All feedback is anonymous, and the test should take less than 10 minutes of your time.”
 
-“Please remember when I say ‘test’ I mean I’m testing our website and if it is clear or not. There are no wrong answers for you!”
+“Please remember when I say ‘test’ I mean I’m testing my website and if it is clear or not. There are no wrong answers for you!”
 
 "Imagine somebody sent you a link to this site and this is what popped up in front of you when you clicked on the link. If you could, please share with me anything (word, phrase, section, prompt) that you find confusing. Also share anything that makes sense to you and that you'd like more information about. Finally, let me know if there is anything you're not interested in/want to see less of."
 
-*Interview 1*
+*Interview 1 - African American Male 83 years old*
 "OK. First of all, can you tell me (in your own words) what you think this site is for?"
+Go back to old history to show poverty disparaties.
 
 "Who do you think the intended audience is for the site?" or "Who do you think this site is for?"
+The younger generation coming into the world today for them to study what happened in the world in the past and how to improve it today
 
 "What other questions do you have about this site, if any?"
+Are people getting along better these days and are the disparaties being addressed?
 
 “Thank you so much for your time. Do you have any questions for me?”
 
-*Interview 2*
+*Interview 2 - African American Male 35 years old*
 "OK. First of all, can you tell me (in your own words) what you think this site is for?"
 
 "Who do you think the intended audience is for the site?" or "Who do you think this site is for?"
