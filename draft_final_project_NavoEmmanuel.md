@@ -25,18 +25,24 @@ Are people getting along better these days and are the disparaties being address
 
 *Interview 2 - African American Male 35 years old*
 "OK. First of all, can you tell me (in your own words) what you think this site is for?"
+It's a visual representation of elements of poverty and poverty itself which plagues the black communtiy in America.
 
 "Who do you think the intended audience is for the site?" or "Who do you think this site is for?"
+Anyone who would like to learn more about poverty in America.
 
 "What other questions do you have about this site, if any?"
+No - pretty self explanatory
 
 “Thank you so much for your time. Do you have any questions for me?”
 
 *Interview 3*
 "OK. First of all, can you tell me (in your own words) what you think this site is for?"
+To show the pipeline to poverty in the United States.
 
 "Who do you think the intended audience is for the site?" or "Who do you think this site is for?"
+Academics who are closely monitoring the issue of poverty and the disparaties that exist amongst impoverished people.
 
 "What other questions do you have about this site, if any?"
+Are there any more metrics that could be used to tell the story more comprehensively?
 
 “Thank you so much for your time. Do you have any questions for me?”
