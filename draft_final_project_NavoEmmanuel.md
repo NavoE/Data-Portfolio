@@ -1,1 +1,1 @@
-
+Further building upon [last week's final project outline](/final_project_NavoEmmanuel.md), I have created a draft of my project using Shorthand and conducted three interviews to test the efficacy of my project. 
