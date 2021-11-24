@@ -47,7 +47,7 @@ For this week, we began developing templates for our final projects. I have chos
 *Week 5*
 My assignment for this week is an extension of the previous week's project plan update. I've chosen to create a template of my project using Shorthand. 
 
-[Learn more about by Final Project Draft.](/final_project_NavoEmmanuel.md)
+[Learn more about by Final Project Draft.](/draft_final_project_NavoEmmanuel.md)
 
 *Week 6*
 
