@@ -51,4 +51,5 @@ My assignment for this week is an extension of the previous week's project plan 
 
 *Week 6*
 
-**Final Project**
+[**Final Project**](/draft_final_project_NavoEmmanuel.md)
+
