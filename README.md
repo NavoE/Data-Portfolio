@@ -51,5 +51,5 @@ My assignment for this week is an extension of the previous week's project plan 
 
 *Week 6*
 
-[**Learn more about my Final Project**](/final_project.md)
+[Learn more about my Final Project](/final_project.md)
 
